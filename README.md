@@ -43,7 +43,7 @@ JavaScript (Vanilla JS) – Interactivity and dynamic UI behavior
 
 Download or clone the repository:
 
-git clone https://github.com/your-username/coffee-website.git
+git clone https://github.com/nadeali1/coffee-website.git
 
 
 Open index.html in any browser.
