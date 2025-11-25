@@ -61,3 +61,6 @@ This project is created to practice front-end development, focusing on building 
 # 📦 Source Code
 
 The full source code is included and free to customize.
+
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/687ab859-87cf-4434-8d44-18609528d187" />
+
